@@ -2,21 +2,21 @@
 
 ## Project Overview
 
-This project presents a detailed **visual analysis of Reinforcement Sleep Disorder (RSD)** using Tableau. The Tableau workbook explores key metrics, trends, and correlations to uncover insights about RSD prevalence, contributing factors, and demographic distributions.
+This project presents a detailed **Analysis of Sleep Disorder** using Tableau. The Tableau workbook explores key metrics, trends, and correlations to uncover insights about RSD prevalence, contributing factors, and demographic distributions.
 
 ---
 
 ## Objective
 
-To visualize and analyze patterns related to Reinforcement Sleep Disorder (RSD) using interactive dashboards, enabling data-driven understanding and decision-making in sleep health research.
+To visualize and analyze patterns related to Sleep Disorder using interactive dashboards, enabling data-driven understanding and decision-making in sleep health research.
 
 ---
 
 ## Scope of Analysis
 
-- Prevalence of RSD across different age groups and genders  
+- Prevalence of SD across different age groups and genders  
 - Comparison of lifestyle and sleep pattern variables  
-- Analysis of medical history and its relation to RSD  
+- Analysis of medical history and its relation to SD  
 - Impact of external factors such as occupation, stress, or screen time
 
 ---
@@ -49,7 +49,7 @@ The Tableau workbook includes:
 
 ## Usage
 
-1. Open `REINFORCEMENT SLEEP DISORDER ANALYSIS.twb` using **Tableau Desktop**.  
+1. Open `SLEEP DISORDER ANALYSIS.twb` using **Tableau Desktop**.  
 2. Interact with filters to explore different segments.  
 3. Hover on charts for tooltip-based insights.  
 4. Export visuals for reporting or presentation.
